@@ -3,3 +3,8 @@
 
 # Editors
 .vscode/
+
+# Giden Traktör
+giden-traktor/**/node_modules/
+giden-traktor/client/dist/
+giden-traktor/data/
